@@ -28,7 +28,7 @@ $ git clone https://github.com/WeebSec/synner.git
 $ cd synner
 $ sudo pip install scapy
 $ chmod +x synner.py
-$ ./admin-san.py
+$ ./synner.py
 ```
 
 ### ScreenShot
